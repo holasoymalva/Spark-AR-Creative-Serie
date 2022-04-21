@@ -6,12 +6,12 @@
 
 ### ¿Qué tenemos que hacer para empezar?
 
-0. [Creacion de assets.](https://github.com/malvabombom/spark-ar-workshop-italia/blob/main/README.md#1-introduzione-a-spark-ar)
-1. [Introducción a Spark AR.](https://github.com/malvabombom/spark-ar-workshop-italia/blob/main/README.md#1-introduzione-a-spark-ar)
-2. [Uso del rastreador de Imagenes.](https://github.com/malvabombom/spark-ar-workshop-italia/blob/main/README.md#2-utilizzo-di-face-tracker)
-3. [Pruebar nuestros efectos.](https://github.com/malvabombom/spark-ar-workshop-italia/blob/main/README.md#3-prova-i-nostri-effetti)
-4. [A publicar nuestro filtro Spark AR.](https://github.com/malvabombom/spark-ar-workshop-italia/blob/main/README.md#4-pubblicando-il-nostro-filtro-spark-ar)
-5. [Recomendaciones finales.](https://github.com/malvabombom/spark-ar-workshop-italia/blob/main/README.md#4-pubblicando-il-nostro-filtro-spark-ar)
+0. [Creacion de assets.](https://github.com/malvabombom/Spark-AR-Creative-Serie#0-creacion-de-assets)
+1. [Introducción a Spark AR.](https://github.com/malvabombom/Spark-AR-Creative-Serie#1-introducci%C3%B3n-a-spark-ar)
+2. [Uso del rastreador de Imagenes.](https://github.com/malvabombom/Spark-AR-Creative-Serie#2-uso-del-rastreador-de-imagenes)
+3. [Pruebar nuestros efectos.](https://github.com/malvabombom/Spark-AR-Creative-Serie#3-pruebar-nuestros-efectos)
+4. [A publicar nuestro filtro Spark AR.](https://github.com/malvabombom/Spark-AR-Creative-Serie#4-a-publicar-nuestro-filtro-spark-ar)
+5. [Recomendaciones finales.](https://github.com/malvabombom/Spark-AR-Creative-Serie#5-recomendaciones-finales)
 
 ## ¡Comencemos con nuestro primer efecto!
 
