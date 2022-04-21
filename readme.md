@@ -1,6 +1,6 @@
 # Spark AR Creative Workshop : Mexico
 
-<!-- <img src="./readme-assets/banner.png" alt="readme-title" width="100%"/> -->
+<img src="./readme-assets/banner.png" alt="readme-title" width="100%"/>
 
 ### ¿Que haremos?
 
